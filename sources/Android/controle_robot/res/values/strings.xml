@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Robot Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_manual">Controle TCP/IP do robô : Manual</string>
+    <string name="label_autonomo">Controle TCP/IP do robô : Autônomo</string>
+    <string name="up">up</string>
+    <string name="down">down</string>
+    <string name="right">right</string>
+    <string name="left">left</string>
+    <string name="go_autonomous">enter in AM</string>
+    <string name="button_exit">exit</string>
+    <string name="modo_manual">Modo Manual</string>
+    <string name="modo_autonomo">Modo Autônomo</string>
+    
+</resources>
