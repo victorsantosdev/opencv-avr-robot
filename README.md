@@ -12,6 +12,7 @@ The next step here is to documentate all the project, this will be done in the n
 Sources
 =========
 Both sources for Arduino and Android are in Eclipse project format. 
-For Arduino: Import both projects into workspace. 
-             Configure the compiler and linker flags pointing to the used librarys of Arduino folder (original Arduino IDE)
+
+For Arduino: Import both projects into workspace. Configure the compiler and linker flags pointing to the used librarys of Arduino folder (original Arduino IDE)
+
 For Android: Just import both projects into workspace, should run with no problems.             
