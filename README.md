@@ -5,7 +5,7 @@ Atmega328P robot controlled by Android mobile device with embedded OpenCV
 AVR receives TCP control messages by a Android mobile (manual control mode).
 The robot has an autonomous control mode, which is activated by the mobile phone too. In this mode, the Computer Vision software tracks a colored ball.
 
-This is a final project of an optional class in my graduation course - Degree in Electronic Systems Development - Brazilian Federal Institute of Technology.
+This is a final project of an elective class in my graduation course - Degree in Electronic Systems Development - Brazilian Federal Institute of Technology.
 
 Sources
 =========
